@@ -1,0 +1,26 @@
+{
+  "name": "myplaywright",
+  "version": "1.0.0",
+  "description": "This is a simple project to get started with **Playwright** for browser automation using **TypeScript**. It demonstrates how to run headless tests using the **Playwright test runner** in **Google Cloud Shell Editor**.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGPSeventh/MyPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TGPSeventh/MyPlaywright/issues"
+  },
+  "homepage": "https://github.com/TGPSeventh/MyPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1"
+  }
+}

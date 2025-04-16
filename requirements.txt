@@ -1,0 +1,4 @@
+playwright
+js-yaml
+typescript
+@playwright/test
